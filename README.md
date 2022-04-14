@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @barryways
+- 👀 I’m interested in Web Development (Full Stack)
+- 🌱 I’m currently studying
+- 💞️ I’m looking to collaborate on web development projects in BackEnd
